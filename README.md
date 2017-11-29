@@ -1,2 +1,0 @@
-# Lino05
-#NileCorpseBot
